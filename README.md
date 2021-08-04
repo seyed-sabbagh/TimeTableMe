@@ -14,4 +14,4 @@ You are welcome to contribute with issues, pull requests and ideas. And to contr
 
 ### Licence
 
-The source code is licensed under the [GNU v3 Public License](https://github.com/seyed-sabbagh). 
+The source code is licensed under the [Seyed](https://github.com/seyed-sabbagh). 
